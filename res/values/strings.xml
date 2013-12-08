@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yavşak Jack</string>
+    <string name="title_activity_yavsak_jack">Yavşak Jack</string>
+    <string name="setting_hide_sponsored">Hide sponsored tweets</string>
+    <string name="setting_adjust_text">Adjust line heights</string>
+    <string name="setting_hide_inline">Hide inline actions</string>
+    <string name="setting_tweet_actions">Add copy tweet actions</string>
+    
+</resources>
